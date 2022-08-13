@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-13T21:10:57.560Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="KmokK3YcX2L8lgjGR_Gr" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-13T21:27:53.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="m17D9rA9yT65n1CE8Lpe" version="20.2.3" type="github">
   <diagram id="b5Q1tEY_qJwvRrVNgjek" name="第 1 页">
-    <mxGraphModel dx="1026" dy="2322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1238" dy="2322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="364" y="30" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="eTKaB4d6App-F-T8Km_a-5" value="InterNet" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.azure_website;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="268" y="12.5" width="50" height="50" as="geometry" />
+          <mxGeometry x="1003" y="-760" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eTKaB4d6App-F-T8Km_a-6" value="Virtual Machine" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.virtual_machine;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="120" y="150" width="50" height="40" as="geometry" />
@@ -1060,6 +1060,9 @@
         </mxCell>
         <mxCell id="3Nzo_0Z1UaSwp5EyXcx5-255" value="Transport&lt;div&gt;service&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.veeam.2d.data_mover;fontSize=14;align=right;" vertex="1" parent="1">
           <mxGeometry x="745" y="4914" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="3Nzo_0Z1UaSwp5EyXcx5-256" value="1. no vlan&amp;nbsp;&lt;br&gt;no hardware .&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;2. app only&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="331" y="-710" width="100" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
